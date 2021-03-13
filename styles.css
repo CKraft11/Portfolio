@@ -38,7 +38,9 @@ a:hover {
   float: none;
   clear: none;
 }
-
+.static {
+  position: static;
+}
 .main-content:after {
   position: absolute;
   content: '';
